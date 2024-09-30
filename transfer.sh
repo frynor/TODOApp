@@ -3,7 +3,6 @@
 source="/home/frynor/workspace/TODOApp/TODO"
 dest="/home/frynor/workspace/TODOApp/DONE"
 
-# Ensure destination directory exists
 mkdir -p "$dest"
 
 # Use a simple for loop to iterate over files
